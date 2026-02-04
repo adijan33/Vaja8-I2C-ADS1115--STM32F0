@@ -18,6 +18,7 @@ V Parameter Settings protokola I2C spremenite Speed Mode na Fast. Koliko znaša 
 
 
 Pinout:
+
 <img width="538" height="541" alt="image" src="https://github.com/user-attachments/assets/514ed747-d033-4f6e-b8f2-f10441537241" />
 
 
